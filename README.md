@@ -1,10 +1,10 @@
 # Eventor
 
 ## FrontEnd
-Flutter
+Flutter   - https://flutter.dev/
 
 ## BackEnd
-NodeJs with ExpressJS
+ExpressJS - https://expressjs.com/
 
 ## Database
-MongoDB
+MongoDB   - https://www.mongodb.com/
