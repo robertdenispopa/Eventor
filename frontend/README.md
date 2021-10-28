@@ -1,4 +1,4 @@
-# eventor_ui
+# frontend
 
 A new Flutter project.
 

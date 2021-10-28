@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.eventor_ui">
+    package="com.example.frontend">
    <application
-        android:label="eventor_ui"
+        android:label="frontend"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

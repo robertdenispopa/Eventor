@@ -1,4 +1,4 @@
-package com.example.eventor_ui
+package com.example.frontend
 
 import io.flutter.embedding.android.FlutterActivity
 

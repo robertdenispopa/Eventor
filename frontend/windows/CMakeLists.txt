@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(eventor_ui LANGUAGES CXX)
+project(frontend LANGUAGES CXX)
 
-set(BINARY_NAME "eventor_ui")
+set(BINARY_NAME "frontend")
 
 cmake_policy(SET CMP0063 NEW)
 
